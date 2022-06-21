@@ -14,11 +14,15 @@ Modul 0: Was ist ASP.NET Core?
 - [ ] Überblick ASP.NET Core
 - [ ] Neuerungen in ASP.NET Core 6
 
-Modul 1:
+Modul 1: IOC Container
 - [ ] Dependency Injections in ASP.NET Core
 
-Modul 2: Einstieg in ASP.NET Core
+Modul 2: ASP.NET Core Grundlagen
 - [ ] Projektstruktur
+- [ ] Konfigurationen
+- [ ] Logging mit Serilog
+
+Modul 3: Razor Pages und Template Synatax
 - [ ] Razor Pages 
     - [ ] Razor Syntax
     - [ ] Tabellen / Formulare
@@ -28,13 +32,11 @@ Modul 2: Einstieg in ASP.NET Core
     - [ ] Asp-Handler
     - [ ] Foto-Gallery
 
-Modul 3: 
+Modul 4: 
 - [ ] Layouts
 - [ ] Bootstrap
 
-Modul 4:
-- [ ] Konfigurationen
-- [ ] Logging mit Serilog
+
   
 Modul 5: EF Core
 - [ ] Entity Framework Core

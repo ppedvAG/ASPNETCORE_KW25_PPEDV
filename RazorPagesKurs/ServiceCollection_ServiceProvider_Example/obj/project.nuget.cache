@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iiMT0Fn29lgxz++rENX8wfsVe0monYXo0H6/hruMoCM3RhERBK9cxDhyy2Ydwpp/Pk9yCc1lIHMMwOHjPSB9Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\ServiceCollection_ServiceProvider_Example\\ServiceCollection_ServiceProvider_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

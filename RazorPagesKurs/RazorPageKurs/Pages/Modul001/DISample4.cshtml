@@ -1,0 +1,12 @@
+﻿@page
+@using RazorPageKurs.Services;
+@inject IRequestCounter requestCounter;
+
+@model RazorPageKurs.Pages.Modul001.DISample4Model
+
+@{
+    //Hier kann ich mehrzeiligen C# Code schreiben
+}
+
+@*Einzeiligen C# Code*@
+@(++requestCounter.Anzahl)
