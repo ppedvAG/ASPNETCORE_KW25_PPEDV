@@ -50,3 +50,16 @@ C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\obj\Debug\n
 C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\obj\Debug\net6.0\RazorPageKurs.pdb
 C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\obj\Debug\net6.0\RazorPageKurs.genruntimeconfig.cache
 C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\obj\Debug\net6.0\ref\RazorPageKurs.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\GameSettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\GameSettings.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\obj\Debug\net6.0\RazorPageKurs.csproj.CopyComplete

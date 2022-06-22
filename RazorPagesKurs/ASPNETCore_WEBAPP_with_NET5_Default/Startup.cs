@@ -13,6 +13,7 @@ namespace ASPNETCore_WEBAPP_with_NET5_Default
 {
     public class Startup
     {
+        //Hier wird schon auf den IOC Container zugegriffen 
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

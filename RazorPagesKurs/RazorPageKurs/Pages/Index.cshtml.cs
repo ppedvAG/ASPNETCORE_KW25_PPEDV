@@ -14,7 +14,7 @@ namespace RazorPageKurs.Pages
 
         public void OnGet()
         {
-
+            _logger.LogInformation("Index Page is called");
         }
     }
 }

@@ -1,0 +1,4 @@
+2022-06-22 14:05:08.045 +02:00 [INF] Starting webapp
+2022-06-22 14:05:20.435 +02:00 [INF] Index Page is called
+2022-06-22 14:05:51.373 +02:00 [INF] Index Page is called
+2022-06-22 14:05:54.408 +02:00 [INF] Index Page is called

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore_WEBAPP_with_NET5_Default", "ASPNETCore_WEBAPP_with_NET5_Default\ASPNETCore_WEBAPP_with_NET5_Default.csproj", "{A52630C1-38FF-443A-B3D2-3506B4866D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETCore_WEBAPP_with_NET5_Default", "ASPNETCore_WEBAPP_with_NET5_Default\ASPNETCore_WEBAPP_with_NET5_Default.csproj", "{A52630C1-38FF-443A-B3D2-3506B4866D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore_WEBAPP_with_NET6_Default", "ASPNETCore_WEBAPP_with_NET6_Default\ASPNETCore_WEBAPP_with_NET6_Default.csproj", "{1A2EBDC2-251B-4AF4-BE5F-4F3237BE72F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETCore_WEBAPP_with_NET6_Default", "ASPNETCore_WEBAPP_with_NET6_Default\ASPNETCore_WEBAPP_with_NET6_Default.csproj", "{1A2EBDC2-251B-4AF4-BE5F-4F3237BE72F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCollection_ServiceProvider_Example", "ServiceCollection_ServiceProvider_Example\ServiceCollection_ServiceProvider_Example.csproj", "{CFCB3DE5-8884-4B0D-B3C0-A340DBD3C98B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceCollection_ServiceProvider_Example", "ServiceCollection_ServiceProvider_Example\ServiceCollection_ServiceProvider_Example.csproj", "{CFCB3DE5-8884-4B0D-B3C0-A340DBD3C98B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCollection_ServiceProvider_Example2", "ServiceCollection_ServiceProvider_Example2\ServiceCollection_ServiceProvider_Example2.csproj", "{B2B686C9-9218-43BF-BC40-60187B751DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceCollection_ServiceProvider_Example2", "ServiceCollection_ServiceProvider_Example2\ServiceCollection_ServiceProvider_Example2.csproj", "{B2B686C9-9218-43BF-BC40-60187B751DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPageKurs", "RazorPageKurs\RazorPageKurs.csproj", "{ED03E83E-18A6-4439-83AA-97D457A9DC9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPageKurs", "RazorPageKurs\RazorPageKurs.csproj", "{ED03E83E-18A6-4439-83AA-97D457A9DC9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
