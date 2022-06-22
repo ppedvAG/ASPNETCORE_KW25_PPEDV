@@ -15,29 +15,30 @@ Modul 0: Was ist ASP.NET Core?
 - [ ] Neuerungen in ASP.NET Core 6
 
 Modul 1: IOC Container
-- [ ] Dependency Injections in ASP.NET Core
+- [x] Dependency Injections in ASP.NET Core
 
 Modul 2: ASP.NET Core Grundlagen
-- [ ] Projektstruktur
-- [ ] Konfigurationen
-- [ ] Logging mit Serilog
+- [x] Konfigurationen
+- [x] Logging mit Serilog
 
 Modul 3: Razor Pages und Template Synatax
+- [ ] Projektstruktur Komplettübersicht
 - [ ] Razor Pages 
-    - [ ] Razor Syntax
-    - [ ] Tabellen / Formulare
-    - [ ] Get / Post - Methoden und Konzept
+    - [x] Razor Page
+    - [x] Razor Syntax
     - [ ] QueryString / Route - Paramter an Get-Methode
+
+    - [ ] Get / Post - Methoden und Konzept
+
     - [ ] Page-Handler 
+    - [ ] Tabellen / Formulare
     - [ ] Asp-Handler
-    - [ ] Foto-Gallery
+    - [ ] Foto-Gallery (Formulare und Dateien)
 
 Modul 4: 
 - [ ] Layouts
 - [ ] Bootstrap
 
-
-  
 Modul 5: EF Core
 - [ ] Entity Framework Core
 - [ ] CodeFirst

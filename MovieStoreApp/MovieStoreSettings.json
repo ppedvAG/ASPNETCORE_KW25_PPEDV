@@ -1,0 +1,15 @@
+{
+  "MovieStoreSettings": {
+    "OmdbapiSettings": {
+      "SampleURL": "http://www.omdbapi.com/?t=Jurassic+Park&y=1993&plot=full&apikey=15d3f3ba",
+      "ActivateKey": "15d3f3ba",
+      "OmdbapiParameter": {
+        "Title": "t",
+        "Year": "y",
+        "Plot": "plot",
+        "Key": "apikey"
+      }
+    }
+  }
+}
+

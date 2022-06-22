@@ -1,3 +1,4 @@
+using MovieStoreApp.Configurations;
 using MovieStoreApp.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +6,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IMovieService, MovieService>();
+
+
+builder.Host.ConfigureAppConfiguration((hostingContext, config) =>
+{
+    config.AddJsonFile("MovieStoreSettings.json", optional: true, reloadOnChange: true);
+});
+
+builder.Services.Configure<MovieStoreSettings>(builder.Configuration.GetSection("MovieStoreSettings"));
 
 var app = builder.Build();
 

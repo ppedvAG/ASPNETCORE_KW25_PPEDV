@@ -24,3 +24,59 @@ C:\Kursvolagen\PPKURS-ASPNETCore\Modul01_Grundgerüst und IoC Container\LabSolut
 C:\Kursvolagen\PPKURS-ASPNETCore\Modul01_Grundgerüst und IoC Container\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.pdb
 C:\Kursvolagen\PPKURS-ASPNETCore\Modul01_Grundgerüst und IoC Container\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.genruntimeconfig.cache
 C:\Kursvolagen\PPKURS-ASPNETCore\Modul01_Grundgerüst und IoC Container\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\ref\MovieStoreApp.dll
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.csproj.AssemblyReference.cache
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.AssemblyInfoInputs.cache
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.AssemblyInfo.cs
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.csproj.CoreCompileInputs.cache
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.RazorAssemblyInfo.cache
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.RazorAssemblyInfo.cs
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.dll
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\refint\MovieStoreApp.dll
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.pdb
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\appsettings.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreSettings.Development.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreSettings.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.staticwebassets.runtime.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.exe
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.deps.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.runtimeconfig.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.dll
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.pdb
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\scopedcss\bundle\MovieStoreApp.styles.css
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MovieStoreApp.bundle.scp.css
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.genruntimeconfig.cache
+C:\Kursvolagen\PPKURS-ASPNETCore\Modul02_Konfiguration_Logging\LabSolution\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\ref\MovieStoreApp.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\appsettings.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreSettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreSettings.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.staticwebassets.runtime.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.exe
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.deps.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.pdb
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.RazorAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.RazorAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\scopedcss\bundle\MovieStoreApp.styles.css
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MovieStoreApp.bundle.scp.css
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\refint\MovieStoreApp.dll
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.pdb
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\MovieStoreApp\obj\Debug\net6.0\ref\MovieStoreApp.dll

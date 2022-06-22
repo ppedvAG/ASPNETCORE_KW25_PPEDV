@@ -1,4 +1,4 @@
-var builder = WebApplication.CreateBuilder(args);
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages(); //Wir sagen dem IOC Container, dass wir RazorPages verwenden und viele weitere Dienste 
@@ -10,7 +10,7 @@ builder.Services.AddMvc(); //AddRazorPages + AddControllersWithViews
 */
 
 
-var app = builder.Build(); //Nach Build, können keine weiteren Dienste / Objekten dem IOC Container hinzufügen 
+WebApplication app = builder.Build(); //Nach Build, können keine weiteren Dienste / Objekten dem IOC Container hinzufügen 
 
 
 // Configure the HTTP request pipeline.

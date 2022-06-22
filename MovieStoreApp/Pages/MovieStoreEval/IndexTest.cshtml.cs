@@ -34,5 +34,3 @@ namespace MovieStoreApp.Pages.MovieStoreEval
         }
     }
 }
-
-

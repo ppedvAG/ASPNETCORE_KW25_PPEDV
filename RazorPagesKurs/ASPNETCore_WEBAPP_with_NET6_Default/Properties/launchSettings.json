@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "ASPNETCore_WEBAPP_with_NET6_Default": {
+    "DefaultWebSeite": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "IIS Express": {
+    "IISExpress": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
