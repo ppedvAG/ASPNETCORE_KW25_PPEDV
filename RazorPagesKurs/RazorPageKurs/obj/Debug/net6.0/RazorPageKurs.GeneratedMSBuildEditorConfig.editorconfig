@@ -47,6 +47,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDJcQ29uZmlndXJhdGlvblNhbXBsZTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/AspPageHandlerSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcQXNwUGFnZUhhbmRsZXJTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/PageHandlerSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcUGFnZUhhbmRsZXJTYW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -61,6 +77,42 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/RazorSyntaxSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcUmF6b3JTeW50YXhTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul003/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul004/BrandTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDRcQnJhbmRUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul004/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDRcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul005/Bookstore/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDVcQm9va3N0b3JlXFRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul005/Moviestore/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDVcTW92aWVzdG9yZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul005/Moviestore/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDVcTW92aWVzdG9yZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul005/Moviestore/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDVcTW92aWVzdG9yZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul005/Moviestore/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDVcTW92aWVzdG9yZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Modul005/Moviestore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWwwMDVcTW92aWVzdG9yZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Privacy.cshtml]
@@ -82,3 +134,7 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8e77u3nuu0
+
+[C:/Aktueller Kurs/ASPNETCore_KW25_ppedv/RazorPagesKurs/RazorPageKurs/Pages/Shared/_LayoutMovieStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRNb3ZpZVN0b3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-dg4emcevam

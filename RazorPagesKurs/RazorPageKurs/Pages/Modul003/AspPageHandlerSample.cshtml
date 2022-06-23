@@ -1,0 +1,18 @@
+﻿@page
+@model RazorPageKurs.Pages.Modul003.AspPageHandlerSampleModel
+@{
+}
+
+
+<form method="post">
+
+    <input name="eins" /> <br/>
+    
+    <input name="zwei" />
+
+    <hr />
+
+    <button type="submit" asp-page-handler="add">addieren</button>
+    <button type="submit" asp-page-handler="sub">subtrahieren</button>
+    @Model.Ergebnis
+</form>

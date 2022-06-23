@@ -1,0 +1,71 @@
+﻿@page
+@model RazorPageKurs.Pages.Modul003.IndexModel
+@{
+}
+
+<a asp-page="./Create">Erstelle einen Film</a>
+
+<table class="table">
+    <thead>
+        <!-- Definition der Spalten-->
+        
+        
+        <tr>
+            <!-- Spaltenzeile (row)-->
+            <th>
+                <!-- Wenn ein ViewModel verwendet wird und in diesem befindet sich eine Liste, MUSS man auf den Index '0' gehen um die Datenstruktur auszulesen-->
+                @Html.DisplayNameFor(model=>model.Movies[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Movies[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Movies[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Movies[0].IMDBRating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Movies[0].Genre)
+            </th>
+
+
+            <th>
+                <!-- eine Spalte wird freigelassen für Operation Buttons, z.B. Edit / Details ... -->
+                <a asp-page="./Create">+</a>
+            </th>
+
+        </tr>
+
+    </thead>
+        
+    <tbody>
+        <!-- Inhalt der Tabelle-->
+
+        @foreach(Movie currentMovie in Model.Movies)
+        {
+            <!-- Zeile -->
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => currentMovie.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentMovie.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentMovie.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentMovie.IMDBRating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentMovie.Genre)
+                </td>
+                <td>
+                    <a asp-page="./Details" asp-route-id="@currentMovie.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

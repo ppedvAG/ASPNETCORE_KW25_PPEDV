@@ -22,34 +22,31 @@ Modul 2: ASP.NET Core Grundlagen
 - [x] Logging mit Serilog
 
 Modul 3: Razor Pages und Template Synatax
-- [ ] Projektstruktur Komplettübersicht
+- [x] Projektstruktur Komplettübersicht
 - [ ] Razor Pages 
     - [x] Razor Page
     - [x] Razor Syntax
-    - [ ] QueryString / Route - Paramter an Get-Methode
-
-    - [ ] Get / Post - Methoden und Konzept
-
-    - [ ] Page-Handler 
-    - [ ] Tabellen / Formulare
-    - [ ] Asp-Handler
-    - [ ] Foto-Gallery (Formulare und Dateien)
-
+    - [x] QueryString / Route - Paramter an Get-Methode
+    - [x] Page-Handler 
+    - [x] Get / Post - Methoden und Konzept
+    - [x] Tabellen / Formulare
+    - [x] Asp-Handler
+    
 Modul 4: 
-- [ ] Layouts
-- [ ] Bootstrap
+- [x] Layouts
+- [x] Bootstrap
 
 Modul 5: EF Core
-- [ ] Entity Framework Core
-- [ ] CodeFirst
-- [ ] DataAnnotations
-- [ ] Scaffolding
-- [ ] InMemory-Database / SqlProvider
+- [x] Entity Framework Core
+- [x] CodeFirst
+- [x] DataAnnotations
+- [x] Scaffolding
+- [x] InMemory-Database / SqlProvider
 
 Modul 6: Modelvalidierung
-- [ ]  Clientseitige Validierung
-- [ ]  BugFix für Clientseitige Validierung
-- [ ]  Serverseitige Validierung
+- [x]  Clientseitige Validierung
+- [x]  BugFix für Clientseitige Validierung
+- [x]  Serverseitige Validierung
 
 Modul 7: 
 - [ ] Partial Views
@@ -81,6 +78,7 @@ Modul 11:
 
 
 Modul 12:
+- [ ] Foto-Gallery (Formulare und Dateien)
 - [ ] Middleware-Pipeline
     - [ ] Thumbnail - Middleware für formatierte Fotos
 
