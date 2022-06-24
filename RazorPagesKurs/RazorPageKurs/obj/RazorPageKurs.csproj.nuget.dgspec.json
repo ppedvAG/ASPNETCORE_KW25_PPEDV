@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj": {}
+    "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj": {
+    "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj",
         "projectName": "RazorPageKurs",
-        "projectPath": "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\RazorPagesKurs\\RazorPageKurs\\RazorPageKurs.csproj",
         "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\RazorPageKurs\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\RazorPagesKurs\\RazorPageKurs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

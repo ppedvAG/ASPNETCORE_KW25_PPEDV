@@ -1,0 +1,13 @@
+﻿@page
+@model RazorPageKurs.Pages.Modul007.TempDataSample2Model
+@{
+     //int lottozahlen = (int)TempData["Lottozahlen"];
+     //string gewinner = TempData["Gewinner"].ToString();
+}
+
+@*Peek sagt, dass der jeweilige Eintrag ausgegeben wird und zusätzlich nicht gelöscht wird. Also wir können auf Lottozahlen und Gewinner jeweils nochmals zugreifen*@
+@TempData.Peek("Lottozahlen")
+@TempData.Peek("Gewinner");
+
+@*@lottozahlen
+@gewinner*@

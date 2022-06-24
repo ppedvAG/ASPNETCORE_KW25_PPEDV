@@ -43,34 +43,37 @@ Modul 5: EF Core
 - [x] Scaffolding
 - [x] InMemory-Database / SqlProvider
 
-Modul 6: Modelvalidierung
+Modul bei Modul 5: Modelvalidierung
 - [x]  Clientseitige Validierung
 - [x]  BugFix für Clientseitige Validierung
 - [x]  Serverseitige Validierung
 
-Modul 7: 
+Modul 6: 
 - [ ] Partial Views
-    - [ ] Was ist eine Partial View?
-    - [ ] Implementieren einer einfachen Partial View
-    - [ ] Razor-Syntax Redundanzen mit Partial View beheben 
-    - [ ] Partial View als Optionale View-Erweiterugen 
+    - [x] Was ist eine Partial View?
+    - [x] Implementieren einer einfachen Partial View
+    - [x] Razor-Syntax Redundanzen mit Partial View beheben 
+    - [x] Partial View als Optionale View-Erweiterugen 
 - [ ] TagHelpers
 - [ ] HTMLHelpers
 
-Modul 8:
+Modul 6:  Modul006_ViewComponents_Localisations
+- [x ViewComponents
+- [x] Lokalisierung 
+
+
+Modul 7:
 - [ ] Cache Tag,
 - [ ] ViewData
 - [ ] TempData
 - [ ] Session
 
-Modul 9: Routing
+Modul 10: Routing
 - [ ] RouteAttributes
 - [ ] RouteTemplates
 - [ ] FriendlyRoutes
 
-Modul 10: 
-- [ ] ViewComponents
-- [ ] Lokalisierung 
+
   
 Modul 11: 
 - [ ] SignalR -> Hanne3s

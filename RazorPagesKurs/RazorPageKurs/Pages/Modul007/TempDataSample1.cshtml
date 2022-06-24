@@ -1,0 +1,15 @@
+﻿@page
+@model RazorPageKurs.Pages.Modul007.TempDataSample1Model
+
+@{
+    int lottozahlen = (int)TempData["Lottozahlen"];
+    string gewinner = TempData["Gewinner"].ToString();
+
+    //Alle Einträge werden nicht gelöscht -> dürfen nochmal 1x auf Tempdata zugreifen
+    TempData.Keep();
+}
+
+
+@lottozahlen
+@gewinner
+

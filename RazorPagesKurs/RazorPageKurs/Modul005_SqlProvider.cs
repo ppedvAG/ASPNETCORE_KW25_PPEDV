@@ -1,49 +1,49 @@
 ﻿
-using RazorPageKurs.Data;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
+//using RazorPageKurs.Data;
+//using Microsoft.EntityFrameworkCore;
+//using Microsoft.Extensions.DependencyInjection;
 
-var builder = WebApplication.CreateBuilder(args);
+//var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddRazorPages();
+//// Add services to the container.
+//builder.Services.AddRazorPages();
 
-builder.Services.AddDbContext<MovieDbContext>(options =>
+//builder.Services.AddDbContext<MovieDbContext>(options =>
 
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext") ?? throw new InvalidOperationException("Connection string 'MovieDbContext' not found.")));
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext") ?? throw new InvalidOperationException("Connection string 'MovieDbContext' not found.")));
 
-builder.Services.AddDbContext<BookDbContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("BookstoreDBContext"));
-});
+//builder.Services.AddDbContext<BookDbContext>(options =>
+//{
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("BookstoreDBContext"));
+//});
 
-var app = builder.Build();
+//var app = builder.Build();
 
 
-//Fr�ste M�glicher Zeitpunkt
+////Fr�ste M�glicher Zeitpunkt
 
-//Ausnahme-> kann BookDbContext nicht aufl�sen
-//BookDbContext context = app.Services.GetRequiredService<BookDbContext>();
+////Ausnahme-> kann BookDbContext nicht aufl�sen
+////BookDbContext context = app.Services.GetRequiredService<BookDbContext>();
 
-IServiceScope scope = app.Services.CreateScope();
-BookDbContext bookDbContext = scope.ServiceProvider.GetRequiredService<BookDbContext>();
-DataSeeder.SeedBookStore(bookDbContext);
+//IServiceScope scope = app.Services.CreateScope();
+//BookDbContext bookDbContext = scope.ServiceProvider.GetRequiredService<BookDbContext>();
+//DataSeeder.SeedBookStore(bookDbContext);
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
+//// Configure the HTTP request pipeline.
+//if (!app.Environment.IsDevelopment())
+//{
+//    app.UseExceptionHandler("/Error");
+//    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+//    app.UseHsts();
+//}
 
-app.UseHttpsRedirection();
-app.UseStaticFiles();
+//app.UseHttpsRedirection();
+//app.UseStaticFiles();
 
-app.UseRouting();
+//app.UseRouting();
 
-app.UseAuthorization();
+//app.UseAuthorization();
 
-app.MapRazorPages();
+//app.MapRazorPages();
 
-app.Run();
+//app.Run();

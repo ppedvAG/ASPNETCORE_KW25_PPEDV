@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tOMu6/oVo5C/TygcW3+us1JMEkynkd68S0QuJ4EpqBOedXliMAdWPc8Q313ax7QBdva+dM7Eu45Q17LvgRJK8A==",
+  "dgSpecHash": "2VJMhus2pyfu79Olhj+2OhQDy2OAWt8d63LqA/W9gSO9ECRINoTHLzP+2d1fyyLHOTNuA+FVErBneE+NnGl+9A==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\RazorPagesKurs\\ASPNETCore_WEBAPP_with_NET5_Default\\ASPNETCore_WEBAPP_with_NET5_Default.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\RazorPagesKurs\\ASPNETCore_WEBAPP_with_NET5_Default\\ASPNETCore_WEBAPP_with_NET5_Default.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

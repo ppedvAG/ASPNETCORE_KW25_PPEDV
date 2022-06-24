@@ -302,3 +302,4 @@ C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\n
 C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Aktueller Kurs\ASPNETCore_KW25_ppedv\RazorPagesKurs\RazorPageKurs\bin\Debug\net6.0\libman.json
+C:\Aktueller Kurs\ASPNETCORE_KW25_PPEDV\RazorPagesKurs\RazorPageKurs\obj\Debug\net6.0\scopedcss\Pages\Shared\_LayoutWithCulturesSwitcher.cshtml.rz.scp.css

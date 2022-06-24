@@ -1,0 +1,12 @@
+﻿@page
+@model RazorPageKurs.Pages.Modul007.TempDataSample3Model
+@{
+        int lottozahlen = (int)TempData["Lottozahlen"];
+        string gewinner = TempData["Gewinner"].ToString();
+}
+
+@lottozahlen
+@gewinner
+
+@*@TempData.Peek("Lottozahlen")
+@TempData.Peek("Gewinner");*@

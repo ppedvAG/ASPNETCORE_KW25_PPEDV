@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W/12mGIktrTNscyh3l87bIbu6QGkXVUgtKk5izHeZ+FHQcVm6Aa41pY1zvnrOmy9NVY4icOxWMSK+LS0jle55Q==",
+  "dgSpecHash": "fS0Kdv+xKkcnE5h0Tk1ylERmzNjSgcsBV52aW7uJu2YoDCuEJlqwRu6jdtl+/QjBuDicYLeJJYn3fw7KJslljw==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCore_KW25_ppedv\\MovieStoreApp\\MovieStoreApp.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCORE_KW25_PPEDV\\MovieStoreApp\\MovieStoreApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
