@@ -6,6 +6,8 @@
 
 //// Add services to the container.
 //builder.Services.AddRazorPages();
+
+
 //builder.Services.AddLocalization(); //Meherere Culturen werden in unserer Anwendung verwendet
 
 //builder.Services.Configure<RequestLocalizationOptions>(options =>

@@ -54,8 +54,7 @@ Modul 6:
     - [x] Implementieren einer einfachen Partial View
     - [x] Razor-Syntax Redundanzen mit Partial View beheben 
     - [x] Partial View als Optionale View-Erweiterugen 
-- [ ] TagHelpers
-- [ ] HTMLHelpers
+
 
 Modul 6:  Modul006_ViewComponents_Localisations
 - [x ViewComponents
@@ -63,28 +62,30 @@ Modul 6:  Modul006_ViewComponents_Localisations
 
 
 Modul 7:
-- [ ] Cache Tag,
-- [ ] ViewData
-- [ ] TempData
-- [ ] Session
+- [x] Cache Tag,
+- [x] ViewData
+- [x] TempData
+- [x] Session
 
 Modul 10: Routing
 - [ ] RouteAttributes
 - [ ] RouteTemplates
 - [ ] FriendlyRoutes
-
-
   
 Modul 11: 
-- [ ] SignalR -> Hanne3s
 - [ ] Identity UI 
-
 
 Modul 12:
 - [ ] Foto-Gallery (Formulare und Dateien)
 - [ ] Middleware-Pipeline
     - [ ] Thumbnail - Middleware für formatierte Fotos
 
+Erweiterungen in HTML:
+- [ ] TagHelpers
+- [ ] HTMLHelpers
+- [ ] SignalR -> Hanne3s
+
+Zusatz: 
 - [ ] WebAPI 
 
 

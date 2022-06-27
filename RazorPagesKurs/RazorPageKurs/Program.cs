@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using RazorPageKurs.Data;
 //var builder = WebApplication.CreateBuilder(args);
 
 //// Add services to the container.

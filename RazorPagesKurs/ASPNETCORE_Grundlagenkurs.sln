@@ -18,7 +18,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\Agenda.md = ..\Agenda.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerApp1", "BlazorServerApp1\BlazorServerApp1.csproj", "{F0ABA50F-C618-4F80-A876-53E5D3126E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerApp1", "BlazorServerApp1\BlazorServerApp1.csproj", "{F0ABA50F-C618-4F80-A876-53E5D3126E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWebApplication1", "MVCWebApplication1\MVCWebApplication1.csproj", "{40F5E2C1-7E90-4785-82DD-EEE4D88938BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1Auth", "WebApplication1Auth\WebApplication1Auth.csproj", "{63FB86F8-5C4C-4950-A537-A274F8B2286B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieWebAPI", "MovieWebAPI\MovieWebAPI.csproj", "{FEC88AD0-CED5-4F55-ADFB-C1D620E8F1D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +56,18 @@ Global
 		{F0ABA50F-C618-4F80-A876-53E5D3126E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0ABA50F-C618-4F80-A876-53E5D3126E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0ABA50F-C618-4F80-A876-53E5D3126E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F5E2C1-7E90-4785-82DD-EEE4D88938BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F5E2C1-7E90-4785-82DD-EEE4D88938BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F5E2C1-7E90-4785-82DD-EEE4D88938BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F5E2C1-7E90-4785-82DD-EEE4D88938BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FB86F8-5C4C-4950-A537-A274F8B2286B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FB86F8-5C4C-4950-A537-A274F8B2286B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FB86F8-5C4C-4950-A537-A274F8B2286B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FB86F8-5C4C-4950-A537-A274F8B2286B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC88AD0-CED5-4F55-ADFB-C1D620E8F1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC88AD0-CED5-4F55-ADFB-C1D620E8F1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC88AD0-CED5-4F55-ADFB-C1D620E8F1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC88AD0-CED5-4F55-ADFB-C1D620E8F1D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

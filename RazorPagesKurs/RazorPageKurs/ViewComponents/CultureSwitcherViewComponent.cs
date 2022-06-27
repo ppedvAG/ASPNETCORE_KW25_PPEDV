@@ -10,6 +10,7 @@ namespace RazorPageKurs.ViewComponents
 
         private readonly IOptions<RequestLocalizationOptions> localizationOptions;
 
+        //IOC Container Zugriff
         public CultureSwitcherViewComponent(IOptions<RequestLocalizationOptions> localizationOptions)
         {
             this.localizationOptions = localizationOptions;
@@ -19,7 +20,6 @@ namespace RazorPageKurs.ViewComponents
         public IViewComponentResult Invoke()
         {
             IRequestCultureFeature? cultureFeature = HttpContext.Features.Get<IRequestCultureFeature>();
-
 
             CultureSwitcherModel model = new CultureSwitcherModel
             {
